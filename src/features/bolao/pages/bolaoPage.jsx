@@ -1,4 +1,4 @@
-// src/features/usuarios/pages/UsuariosPage.jsx
+// src/features/usuarios/pages/BolaoPage.jsx
 import React from 'react';
 
 const bolaoPage = () => {
